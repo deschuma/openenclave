@@ -15,6 +15,7 @@
 enclave
 {
     include "openenclave/bits/types.h"
+    include "openenclave/bits/edl/sgx/switchless.h"
 
     struct oe_host_worker_context_t
     {

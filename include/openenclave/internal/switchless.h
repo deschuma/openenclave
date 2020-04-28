@@ -5,6 +5,7 @@
 #define _OE_SWITCHLESS_H
 
 #include <openenclave/bits/defs.h>
+#include <openenclave/bits/edl/sgx/switchless.h>
 #include <openenclave/bits/types.h>
 #include <openenclave/internal/bits/sgx/switchless.h>
 #include <openenclave/internal/calls.h>
